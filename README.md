@@ -12,4 +12,4 @@ A minimal Giphy search tool using React and Redux. When a user enters a search q
 - [x] Text thunk action creator
 - [x] Logger middleware
 - [x] Container component
-- [ ] Presentational components
+- [x] Presentational components
