@@ -4,7 +4,7 @@
 export const RECEIVE_GIFS = 'RECEIVE_GIFS';
 
 // TODO: Write a function that returns your `action` object literal
-const receiveGifs = gifs => {
+export const receiveGifs = gifs => {
     return {
       type: RECEIVE_GIFS,
       gifs

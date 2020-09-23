@@ -7,7 +7,7 @@ A minimal Giphy search tool using React and Redux. When a user enters a search q
 ## Project Checklist
 - [x] Fetch data in the Redux cycle
 - [x] Redux actions
-- [ ] Redux store
+- [x] Redux store
 - [ ] Thunk middleware
 - [ ] Text thunk action creator
 - [ ] Logger middleware
