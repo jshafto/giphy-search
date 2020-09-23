@@ -8,8 +8,8 @@ A minimal Giphy search tool using React and Redux. When a user enters a search q
 - [x] Fetch data in the Redux cycle
 - [x] Redux actions
 - [x] Redux store
-- [ ] Thunk middleware
-- [ ] Text thunk action creator
+- [x] Thunk middleware
+- [x] Text thunk action creator
 - [ ] Logger middleware
 - [ ] Container component
 - [ ] Presentational components
